@@ -1,6 +1,7 @@
 def print_hi(name):
     print(f'Hi, {name}')
     print('Hello_Game')
+    print('idi')
 
 
 if __name__ == '__main__':
